@@ -1,4 +1,4 @@
-# Excel_Dashboard_Project
+# E commerce Sales Dashboard Project Excel
 Worked on creating a dynamic dashboard to analyze e-commerce sales performance, customer behavior, and product trends with meaningful business insights and professional visualization.
 
 ✨ Key Highlights:
